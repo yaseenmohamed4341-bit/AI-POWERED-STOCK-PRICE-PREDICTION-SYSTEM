@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow
+keras
+yfinance
+flask
+gunicorn
+joblib
+python-dotenv
