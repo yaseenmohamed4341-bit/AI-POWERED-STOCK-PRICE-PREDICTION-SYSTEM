@@ -1,0 +1,19 @@
+STOCK PRICE PREDICTION REPORT
+==================================================
+Stock: AAPL (Apple Inc.)
+Generated: 2025-11-08 10:10:06
+Model: Linear Regression (5-day window)
+Last actual price: $268.47
+
+NEXT 10 TRADING DAYS:
+--------------------------------------------------
+Day  1: 2025-11-10 (Mon) = $268.23
+Day  2: 2025-11-11 (Tue) = $268.05
+Day  3: 2025-11-12 (Wed) = $267.84
+Day  4: 2025-11-13 (Thu) = $267.59
+Day  5: 2025-11-14 (Fri) = $267.35
+Day  6: 2025-11-17 (Mon) = $267.12
+Day  7: 2025-11-18 (Tue) = $266.89
+Day  8: 2025-11-19 (Wed) = $266.66
+Day  9: 2025-11-20 (Thu) = $266.43
+Day 10: 2025-11-21 (Fri) = $266.20
