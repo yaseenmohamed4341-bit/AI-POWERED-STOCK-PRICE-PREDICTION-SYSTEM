@@ -9,3 +9,4 @@ flask
 gunicorn
 joblib
 python-dotenv
+streamlit
